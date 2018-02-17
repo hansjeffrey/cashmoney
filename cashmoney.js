@@ -1,0 +1,1 @@
+alert("Fuck cash money");
